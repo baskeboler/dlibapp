@@ -1,0 +1,3 @@
+[submodule "libs/qhttp"]
+	path = libs/qhttp
+	url = https://github.com/baskeboler/qhttp
